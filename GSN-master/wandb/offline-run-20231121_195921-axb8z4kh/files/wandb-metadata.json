@@ -1,0 +1,45 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.0",
+    "heartbeatAt": "2023-11-21T11:59:21.752771",
+    "startedAt": "2023-11-21T11:59:21.634938",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/wangyingbo/Projects/23.03-QuantumEntropy/GSN-master/main.py",
+    "codePathLocal": "main.py",
+    "codePath": "GSN-master/main.py",
+    "git": {
+        "remote": "https://github.com/JasonWang-Zqqgpllp20/quantum-entropy-graph-learning.git",
+        "commit": "2fce7ecae543bf0235f950df3f236e03e684952f"
+    },
+    "email": "zqqgpllp20@gmail.com",
+    "root": "/Users/wangyingbo/Projects/23.03-QuantumEntropy",
+    "host": "derbo",
+    "username": "wangyingbo",
+    "executable": "/Users/wangyingbo/opt/anaconda3/envs/python380/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 274.1440200805664
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
